@@ -1,0 +1,5 @@
+gpio/gpio
+*.o
+wiringPi/libwiringPi.so.*
+*.swp
+
